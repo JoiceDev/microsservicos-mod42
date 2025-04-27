@@ -29,11 +29,3 @@ Gerencia o cadastro e manutenção do catálogo de produtos.
 - Maven
 - Lombok
 
-## Como Executar
-
-### Pré-requisitos
-- Java 17 ou superior instalado
-- IDE Java (STS, IntelliJ, Eclipse, etc.)
-
-### Executando os Microsserviços
-1. Clone o repositório:
